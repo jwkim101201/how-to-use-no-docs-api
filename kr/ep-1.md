@@ -15,6 +15,7 @@ API를 뜯을 사이트는 디씨인사이드 디시콘 API입니다.
 ![SC1](../resources/sc1.png)
 이렇게 나와있을겁니다. 여기서 search를 누르면
 ![SC2](../resources/sc2.png)
+
 Form Data에 저런 식으로 나올겁니다. (ci_t는 다를 수 있습니다.)
 
 6. 한번 저렇게 요청을 (POST) 날려봅시다.
